@@ -1,3 +1,9 @@
+# Archived legacy repository
+
+This repository is preserved for history. The maintained LG Aimers project is
+[lg-aimers-pitch-control](https://github.com/tswaincae1221/lg-aimers-pitch-control).
+
+---
 # LG Aimers 피처·모델 자동 실험실
 
 기존 V1 155개 피처와 V1.1 `asof` 추세 실험을 확장한 설정 기반 실험
